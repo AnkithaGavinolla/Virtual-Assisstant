@@ -25,4 +25,4 @@ Amazon Customer Q/A
 
 
 Data Pipeline:
-![Screenshot](pipeline.png)
+![Screenshot](Pipeline.png)
