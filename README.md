@@ -1,5 +1,5 @@
 # Virtual-Assisstant
-Virtual Assistant that could provide answers user queries related to products.
+Virtual Assistant that could provide answers to  user queries related to products.
 
 Motivation:
 
