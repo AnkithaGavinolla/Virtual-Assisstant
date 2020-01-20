@@ -1,0 +1,10 @@
+purchase_type: on_demand
+subnet_id:subnet-0d3f7f2c93a8c5392
+num_instances: 3
+key_name:Ankitha-IAM-keypair
+security_group_ids: sg-0bfb3ff5b04908619
+instance_type: m4.large
+tag_name:spark_cluster
+vol_size: 100
+role: worker
+use_eips: true
