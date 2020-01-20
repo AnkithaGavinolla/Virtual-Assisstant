@@ -1,4 +1,4 @@
-# Virtual-Assistant
+# Virtual-Assisstant
 Virtual Assistant that could provide answers to  user queries related to products.
 
 Motivation:
