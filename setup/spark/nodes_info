@@ -1,0 +1,15 @@
+MASTER NODE:
+    Hostname:   ip-10-0-0-8
+    Public DNS: ec2-44-231-58-31.us-west-2.compute.amazonaws.com
+
+WORKER NODE:
+    Hostname:   ip-10-0-0-9
+    Public DNS: ec2-44-231-229-247.us-west-2.compute.amazonaws.com
+
+WORKER NODE:
+    Hostname:   ip-10-0-0-4
+    Public DNS: ec2-44-230-218-246.us-west-2.compute.amazonaws.com
+
+WORKER NODE:
+    Hostname:   ip-10-0-0-11
+    Public DNS: ec2-100-21-151-207.us-west-2.compute.amazonaws.com
